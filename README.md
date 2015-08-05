@@ -1,2 +1,2 @@
 # llb 
-一个小功能
+yii2 version
